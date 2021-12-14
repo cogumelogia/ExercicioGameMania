@@ -1,1 +1,10 @@
-let menu
+$(document).ready (function(){
+
+
+
+})
+
+function mostrarMenu() {
+
+    
+}
